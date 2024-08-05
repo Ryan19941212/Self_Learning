@@ -2,7 +2,8 @@
 
 ## 👋 About Me
 
-Hi, I'm **Ryan Huang**, a dedicated and passionate engineer with a background in civil engineering and extensive experience in AI and software development. With a Master's degree in Civil Engineering from National Chiao Tung University and a Bachelor's degree in Civil Engineering from National Central University, I have transitioned from traditional engineering to the cutting-edge field of AI and machine learning.
+Hi, I'm Ryan Huang, a dedicated and passionate engineer with a background in civil engineering and extensive experience in AI and software development. I have a strong interest in integrating advanced technologies into traditional engineering fields. My journey has taken me from managing large-scale civil engineering projects to developing cutting-edge AI models and tools. I am particularly fascinated by generative AI and aspire to become a leading AI engineer, leveraging my diverse skill set to drive technological advancements and innovation.
+
 
 ---
 
