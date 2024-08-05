@@ -1,0 +1,24 @@
+HTML Tags Used:
+1. <h1> - Main headings on each page
+2. <p> - Paragraphs for text content
+3. <a> - Hyperlinks to navigate between pages
+4. <img> - Images in the gallery
+5. <nav> - Navigation bar
+6. <ul> - List of navigation links
+7. <li> - List items in the navigation bar
+8. <footer> - Footer section
+9. <form> - Contact form
+10. <input> - Form input fields
+
+CSS Selectors and Properties Used:
+1. body - font-family, background-color
+2. h1 - color, margin-bottom
+3. p - font-size, line-height, margin-bottom
+4. .navbar - margin-bottom
+5. .footer - background-color, text-align, padding
+
+JavaScript:
+Added an alert message on page load.
+
+Bootstrap:
+Integrated Bootstrap for styling and responsive design.
