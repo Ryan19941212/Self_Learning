@@ -4,6 +4,7 @@
 
 Hi, I'm Ryan Huang, a dedicated and passionate engineer with a background in civil engineering and extensive experience in AI and software development. I have a strong interest in integrating advanced technologies into traditional engineering fields. My journey has taken me from managing large-scale civil engineering projects to developing cutting-edge AI models and tools. I am particularly fascinated by generative AI and aspire to become a leading AI engineer, leveraging my diverse skill set to drive technological advancements and innovation.
 
+**I have a strong interest and passion for AI, and I have been enhancing my knowledge through self-study. I recently learned that your company is recruiting talents in this field, and I am very eager to join your team. My enthusiasm for AI drives me to seek any opportunity to participate in AI development, whether it be through an internship, a contract position, or even an unpaid role. I sincerely hope to contribute and gain experience in AI development with your esteemed company.**
 
 ---
 
